@@ -1,0 +1,59 @@
+/* Age Calculator area css start */
+.age_wrappwr{
+    width: 600px;
+    margin: 200px auto;
+    
+}
+
+h1.mizan {
+    text-align: center;
+    color: #fff;
+    font-weight: bold;
+    margin-bottom: -17px;
+}
+
+h1.age.alert {
+    text-align: center;
+    color: #fff;
+    font-weight: bold;
+    margin-top: -15px;
+}
+
+.age-counter{
+    font-size: 50px;
+    font-weight: 900;
+    text-align: center;
+    vertical-align: middle;
+}
+.result{
+    background: #518428;
+    color: #fff;
+}
+.counter {
+    color: #000;
+    font-size: 20px;
+    background: #EEEEEE;
+    margin-top: -15px;
+}
+
+/* Age Calculator area css end */
+
+/* Product area css start */
+.card.product-add-box {
+    display: none;
+}
+
+
+/* Product area css end */
+
+
+.dev_wrap{
+    background-color: rgb(245, 149, 149);
+    padding: 20px 0;
+}
+.card_data{
+    background: rgb(241, 156, 199);
+}
+.list-group-item.dskill{
+    background: rgb(206, 138, 172);
+}
